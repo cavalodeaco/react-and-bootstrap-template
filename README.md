@@ -3,6 +3,7 @@
 Página de inscrição do curso Pilotando Para a Vida
 
 [![Node.js CI](https://github.com/cavalodeaco/ppv-inscricao/actions/workflows/node.js.yml/badge.svg)](https://github.com/cavalodeaco/ppv-inscricao/actions/workflows/node.js.yml)
+[![codecov](https://codecov.io/gh/cavalodeaco/ppv-inscricao/branch/main/graph/badge.svg?token=V5b2nJMLWg)](https://codecov.io/gh/cavalodeaco/ppv-inscricao)
 
 ---
 

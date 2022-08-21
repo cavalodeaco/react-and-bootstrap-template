@@ -4,10 +4,8 @@ Página de inscrição do curso Pilotando Para a Vida
 
 [![Node.js CI](https://github.com/cavalodeaco/ppv-inscricao/actions/workflows/node.js.yml/badge.svg)](https://github.com/cavalodeaco/ppv-inscricao/actions/workflows/node.js.yml)
 [![codecov](https://codecov.io/gh/cavalodeaco/ppv-inscricao/branch/main/graph/badge.svg?token=V5b2nJMLWg)](https://codecov.io/gh/cavalodeaco/ppv-inscricao)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=cavalodeaco_ppv-inscricao&metric=bugs)](https://sonarcloud.io/summary/new_code?id=cavalodeaco_ppv-inscricao)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=cavalodeaco_ppv-inscricao&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=cavalodeaco_ppv-inscricao)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=cavalodeaco_ppv-inscricao&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=cavalodeaco_ppv-inscricao)
 
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=cavalodeaco_ppv-inscricao)](https://sonarcloud.io/summary/new_code?id=cavalodeaco_ppv-inscricao)
 
 ---
 

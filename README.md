@@ -1,9 +1,9 @@
 # React + bootstrap template
 
-[![Node.js CI](https://github.com/cavalodeaco/ppv-inscricao/actions/workflows/node.js.yml/badge.svg)](https://github.com/cavalodeaco/ppv-inscricao/actions/workflows/node.js.yml)
-[![codecov](https://codecov.io/gh/cavalodeaco/ppv-inscricao/branch/main/graph/badge.svg?token=V5b2nJMLWg)](https://codecov.io/gh/cavalodeaco/ppv-inscricao)
+[![Node.js CI](https://github.com/cavalodeaco/react-and-bootstrap-template/actions/workflows/node.js.yml/badge.svg)](https://github.com/cavalodeaco/react-and-bootstrap-template/actions/workflows/node.js.yml)
+[![codecov](https://codecov.io/gh/cavalodeaco/react-and-bootstrap-template/branch/main/graph/badge.svg?token=V5b2nJMLWg)](https://codecov.io/gh/cavalodeaco/react-and-bootstrap-template)
 
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=cavalodeaco_ppv-inscricao)](https://sonarcloud.io/summary/new_code?id=cavalodeaco_ppv-inscricao)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=cavalodeaco_react-and-bootstrap-template&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=cavalodeaco_react-and-bootstrap-template)
 
 ---
 

@@ -2,9 +2,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-    <div className="App text-center">
+    <div className="App min-vh-100 bg-dark d-flex justify-content-center align-items-center">
       <h1 className="display-1 text-primary">
-        Learn React
+        React and Bootstrap Template
       </h1>
     </div>
   );
